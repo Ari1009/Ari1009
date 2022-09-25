@@ -36,7 +36,7 @@
   <br><br><br>
   </div>
   <div>
-  <h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
+  <h2 align="center">            ~ 📇 𝓣𝓮𝓬𝓱𝓢𝓽𝓪𝓬𝓴 📇 ~</h2>
    <br>
   <p>
     <div align="center">
@@ -61,7 +61,7 @@
 <br>
 <div>
    <div>
-       <h2 align="center"> ~ Stats! ~ </h2>
+       <h2 align="center"> ~ 𝓢𝓽𝓪𝓽𝓼! ~ </h2>
        <div align="center">
            <img src="https://github-readme-stats.vercel.app/api?username=Arihant1009&theme=blue-green">
        </div>
