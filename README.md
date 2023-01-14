@@ -31,7 +31,7 @@
   <b>Passion:</b> UI/UX Design, Web Development, Cybersecurity, App Development
   </li>
   <li>
-  <b>Working @:</b> First Year student at NITS
+  <b>Working @:</b> Second Year student at NITS
   </li>
   <br><br><br>
   </div>
