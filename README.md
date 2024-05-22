@@ -20,7 +20,7 @@
 deku09: ~/my_readme (main⚡)$ neofetch
 ```
 
-<img align="left" src="img/COE/Kiyotaka_Ayanokouenji.webp" width="205px"/> 
+<img align="left" src="img/COE/Kiyotaka_Ayanokouenji.webp" width="190px"/> 
 
 ```csharp
 Profile ver:本当が残酷な愛人なら、嘘はいい女に違いない(If the truth is a cruel mistress, then a lie must be a nice girl.)
@@ -39,6 +39,9 @@ FavouriteSong: Odoriko by Vaundy
 FavouriteEquation: Schrödinger equation
 Hobbies: Gaming,watching anime,coding while I am listening music
 ```
+<br>
+<br>
+<br>
 <div>
     <h2 align="center"> 🔎Knowledge📖 </h2>
 </div>
